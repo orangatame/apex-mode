@@ -50,7 +50,7 @@
   `((,(regexp-opt
        '("public" "global" "private" "protected" "static" "final" "transient" "virtual" "override" "abstract"
 	 "class" "interface" "new" "enum" "implements" "extends" "instanceof"
-         "if" "then" "else" "do" "while" "break" "continue"
+         "if" "for" "then" "else" "do" "while" "break" "continue"
 	 "try" "catch" "throw" "finally"
 	 "trigger" "on" "before" "after"
 	 "return"
